@@ -8,7 +8,7 @@
     * [🔹Multi-Token](marketplace/multi-chain/multi-token.md)
     * [🔹Visit Era-Homi](https://era-homi.xyz/)
   * [📱Homiverse](hominids/homiverse.md)
-    * [🔹Android APK Prototype](hominids/homiverse/android-apk-prototype/README.md)
+    * [🔹Android Prototype 0.0.1](hominids/homiverse/android-prototype-0.0.1/README.md)
       * [🔹Download](https://mega.nz/file/ToUEEAhY#4KFWj363DDj2vmcpq7Fx6QBOaDA4rhMqfVxWBaVhu1w)
   * [👕"H0xMi3" Brands](hominids/h0xmi3-brands.md)
     * [🔹Collection 1](hominids/h0xmi3-brands/collection-1.md)
