@@ -16,7 +16,7 @@
   * [Audit And KYC](utilities/audit-and-kyc.md)
   * [3D Character](utilities/3d-character.md)
 * [Benefits](benefits.md)
-* [Marketplace](marketplace/README.md)
+* [Marketplace](<README (1).md>)
   * [Launchpad](marketplace/launchpad.md)
   * [Transactions fees](marketplace/transactions-fees.md)
   * [Multi-Chain](marketplace/multi-chain/README.md)
@@ -24,5 +24,4 @@
 
 ## Contact & Links
 
-* [Page 2](contact-and-links/page-2.md)
 * [Twitter](https://twitter.com/\_Hominids\_)
