@@ -2,6 +2,6 @@
 description: Soon
 ---
 
-# 🚩 BRC-20 (Bitcoin)
+# 🚩 🔹BRC-20 |Bitcoin
 
 Coming Soon

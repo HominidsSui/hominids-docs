@@ -6,7 +6,7 @@
     * [🔹Transactions fees](marketplace/transactions-fees.md)
     * [🔹Multi-Chain](hominids/era-homi/multi-chain/README.md)
       * [💧 🔹Sui Network](hominids/era-homi/multi-chain/sui-network.md)
-      * [🚩 🔹BRC-20 |Bitcoin](hominids/era-homi/multi-chain/brc-20-or-bitcoin.md)
+      * [🚩 🔹BRC-20 |Bitcoin](hominids/era-homi/multi-chain/brc-20-bitcoin.md)
     * [🔹Multi-Token](marketplace/multi-chain/multi-token.md)
     * [🔹Visit Era-Homi](https://era-homi.xyz/)
   * [📱Homiverse](hominids/homiverse.md)
