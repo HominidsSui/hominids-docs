@@ -12,15 +12,15 @@ We strongly believe that the success and growth of the Sui community relies on c
 
 
 
-&#x20;  \- <mark style="background-color:blue;">**Collaboration and partnerships**</mark>: _Hominids encourages collaboration with other developers in the Sui community. We offer partnership opportunities to create joint decentralized applications, explore new features and develop innovative projects together._
+&#x20;  🔹 <mark style="background-color:blue;">**Collaboration and partnerships**</mark>: _Hominids encourages collaboration with other developers in the Sui community. We offer partnership opportunities to create joint decentralized applications, explore new features and develop innovative projects together._
 
-&#x20;   \- <mark style="background-color:blue;">**Access to tools and resources**</mark>: _Our team is well-versed in the **MOVE programming language used in the Sui blockchain**, which means we can provide guidance, code examples, and resources to help other developers create and deploy smart contracts and applications on the Sui blockchain._
+&#x20;   🔹 <mark style="background-color:blue;">**Access to tools and resources**</mark>: _Our team is well-versed in the **MOVE programming language used in the Sui blockchain**, which means we can provide guidance, code examples, and resources to help other developers create and deploy smart contracts and applications on the Sui blockchain._
 
-&#x20;  \- <mark style="background-color:blue;">**Boosting Sui blockchain adoption**</mark>: _By providing immersive experiences, compelling features, and a range of products and services, Hominids is helping to bring attention to Sui blockchain and encourage adoption by a wider audience. This creates a positive dynamic for other developers who want to work on Sui blockchain, as it provides them with a strong user base and opportunity._
+&#x20;  🔹 <mark style="background-color:blue;">**Boosting Sui blockchain adoption**</mark>: _By providing immersive experiences, compelling features, and a range of products and services, Hominids is helping to bring attention to Sui blockchain and encourage adoption by a wider audience. This creates a positive dynamic for other developers who want to work on Sui blockchain, as it provides them with a strong user base and opportunity._
 
-&#x20;  \- <mark style="background-color:blue;">**Experimentation and innovation**</mark>: _Hominids is open to experimentation and innovation in NFT, games, and decentralized applications. By working with us, other developers can explore new ideas, test concepts and push the boundaries of what is possible on the Sui blockchain. This fosters creativity and technological advancement within the Sui community._
+&#x20;  🔹 <mark style="background-color:blue;">**Experimentation and innovation**</mark>: _Hominids is open to experimentation and innovation in NFT, games, and decentralized applications. By working with us, other developers can explore new ideas, test concepts and push the boundaries of what is possible on the Sui blockchain. This fosters creativity and technological advancement within the Sui community._
 
-&#x20;  \- <mark style="background-color:blue;">**Technical support and expertise**</mark>: _Our team is available to provide technical support and expertise to other developers. Whether it's solving problems, answering questions, or offering advice, we are here to help other developers overcome obstacles and succeed in their projects._
+&#x20;  🔹 <mark style="background-color:blue;">**Technical support and expertise**</mark>: _Our team is available to provide technical support and expertise to other developers. Whether it's solving problems, answering questions, or offering advice, we are here to help other developers overcome obstacles and succeed in their projects._
 
 <figure><img src=".gitbook/assets/Screenshot_20230405_024757.jpg" alt="" width="164"><figcaption></figcaption></figure>
 
