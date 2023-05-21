@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Hominids](README.md)
-  * [Era-Homi](hominids/era-homi.md)
+  * [🌐Era-Homi](hominids/era-homi.md)
   * [Homiverse](hominids/homiverse.md)
   * [Fashion Brands](hominids/fashion-brands.md)
   * [$HOMI Token](hominids/usdhomi-token/README.md)
