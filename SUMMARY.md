@@ -2,7 +2,7 @@
 
 * [Hominids](README.md)
   * [🌐Era-Homi](hominids/era-homi.md)
-  * [Homiverse](hominids/homiverse.md)
+  * [📱Homiverse](hominids/homiverse.md)
   * [Fashion Brands](hominids/fashion-brands.md)
   * [$HOMI Token](hominids/usdhomi-token/README.md)
     * [Tokenomics](hominids/usdhomi-token/tokenomics.md)
