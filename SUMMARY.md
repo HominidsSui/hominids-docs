@@ -4,7 +4,9 @@
   * [🌐Era-Homi](hominids/era-homi.md)
     * [🔹Launchpad](marketplace/launchpad.md)
     * [🔹Transactions fees](marketplace/transactions-fees.md)
-    * [🔹Multi-Chain](marketplace/multi-chain/README.md)
+    * [🔹Multi-Chain](hominids/era-homi/multi-chain/README.md)
+      * [💧 Sui Network](hominids/era-homi/multi-chain/sui-network.md)
+      * [🚩 BRC-20 (Bitcoin)](hominids/era-homi/multi-chain/brc-20-bitcoin.md)
     * [🔹Multi-Token](marketplace/multi-chain/multi-token.md)
     * [🔹Visit Era-Homi](https://era-homi.xyz/)
   * [📱Homiverse](hominids/homiverse.md)
@@ -27,7 +29,6 @@
   * [🔹Renting and Lending](utilities/renting-and-lending.md)
   * [🔹Audit And KYC](utilities/audit-and-kyc.md)
   * [🔹3D Character](utilities/3d-character.md)
-* [Benefits](benefits.md)
 
 ## Contact & Links
 

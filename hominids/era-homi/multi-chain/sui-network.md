@@ -1,0 +1,2 @@
+# 💧 Sui Network
+
