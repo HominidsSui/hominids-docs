@@ -1,2 +1,0 @@
-# Rarity Earning
-

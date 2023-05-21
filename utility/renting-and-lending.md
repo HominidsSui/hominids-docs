@@ -1,2 +1,0 @@
-# Renting and Lending
-

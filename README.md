@@ -22,7 +22,7 @@ We strongly believe that the success and growth of the Sui community relies on c
 
 &#x20;  \- <mark style="background-color:blue;">**Technical support and expertise**</mark>: _Our team is available to provide technical support and expertise to other developers. Whether it's solving problems, answering questions, or offering advice, we are here to help other developers overcome obstacles and succeed in their projects._
 
-
+<figure><img src=".gitbook/assets/Screenshot_20230405_024757.jpg" alt="" width="164"><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**HOMINIDS**</mark> is a groundbreaking project that combines the power of **NFTs**, blockchain and metaverse to create an unparalleled immersive experience. Our goal is to push the boundaries of creativity, social interaction and technological innovation.
 
@@ -42,5 +42,7 @@ The security and satisfaction of our community is paramount to us. We are commit
 
 \
 
+
+<figure><img src=".gitbook/assets/banner.jpg" alt=""><figcaption></figcaption></figure>
 
 \
