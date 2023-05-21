@@ -1,3 +1,2 @@
-# Hominids GitBook Revision
+# Hominids
 
-Sui Mainnet Coming Soon
