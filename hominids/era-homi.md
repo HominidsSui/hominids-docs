@@ -6,6 +6,10 @@ description: '🦍Era-Homi Dapp-Marketplace: A gateway to the world of HOMINIDS 
 
 Welcome to **Era-Homi, the Dapp-Marketplace of the Hominids project**, where you will discover a world rich in creativity, exchanges and opportunities. 🚀🌈
 
+
+
+<figure><img src="../.gitbook/assets/111.jpg" alt="" width="375"><figcaption><p>era-homi.xyz</p></figcaption></figure>
+
 ✨ **Explore a unique collection of hominid NFTs** ✨
 
 Dive into our collection of hominid NFTs, unique artistic creations that bring to life anthropomorphic characters with distinct physical traits, captivating personalities, and special characteristics. Each NFT is a rare and valuable piece of digital art, offering an immersive visual experience and increasing intrinsic value over time. 🎨💎
