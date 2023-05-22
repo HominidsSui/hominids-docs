@@ -5,8 +5,10 @@
     * [🔹Launchpad](marketplace/launchpad.md)
     * [🔹Transactions fees](marketplace/transactions-fees.md)
     * [🔹Multi-Chain](hominids/era-homi/multi-chain/README.md)
-      * [💧 🔹Sui Network](hominids/era-homi/multi-chain/sui-network.md)
-      * [🚩 🔹BRC-20 |Bitcoin](hominids/era-homi/multi-chain/brc-20-bitcoin.md)
+      * [🔹In Live](hominids/era-homi/multi-chain/in-live/README.md)
+        * [💧 Sui Network](https://dosui.gitbook.io/dosui/introduction-to-dosui/what-is-dosui/why-sui-network)
+      * [🔹Soon](hominids/era-homi/multi-chain/soon/README.md)
+        * [🪙 Bitcoin|BRC-20](https://brc-ex.gitbook.io/brc-ex-or-the-first-dex-for-brc20/)
     * [🔹Multi-Token](marketplace/multi-chain/multi-token.md)
     * [🔹Visit Era-Homi](https://era-homi.xyz/)
   * [📱Homiverse](hominids/homiverse.md)
@@ -32,4 +34,4 @@
 
 ## Contact & Links
 
-* [Twitter](https://twitter.com/\_Hominids\_)
+* [🐦 Twitter](https://twitter.com/\_Hominids\_)
