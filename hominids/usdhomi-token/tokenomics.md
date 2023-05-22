@@ -8,7 +8,7 @@ description: 🌐 Introducing Hominids' Tokenomics 🌐
 
 
 
-```
+```cpp
               $HOMI Token Distribution
 
    -------------------------------------------------
