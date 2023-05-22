@@ -9,6 +9,7 @@
         * [💧 Sui Network](https://dosui.gitbook.io/dosui/introduction-to-dosui/what-is-dosui/why-sui-network)
       * [🔹Soon](hominids/era-homi/multi-chain/soon/README.md)
         * [🪙 Bitcoin|BRC-20](https://brc-ex.gitbook.io/brc-ex-or-the-first-dex-for-brc20/)
+        * [🚢 Sei Network](https://docs.sei.io/)
     * [🔹Multi-Token](marketplace/multi-chain/multi-token.md)
     * [🔹Visit Era-Homi](https://era-homi.xyz/)
   * [📱Homiverse](hominids/homiverse.md)
