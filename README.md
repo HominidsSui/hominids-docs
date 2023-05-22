@@ -2,7 +2,7 @@
 description: Presentation
 ---
 
-# Hominids
+# 📢 Hominids
 
 <figure><img src=".gitbook/assets/banner.jpg" alt=""><figcaption></figcaption></figure>
 

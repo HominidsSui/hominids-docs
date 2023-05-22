@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hominids](README.md)
+* [📢 Hominids](README.md)
   * [🌐Era-Homi](hominids/era-homi.md)
     * [🔹Launchpad](marketplace/launchpad.md)
     * [🔹Transactions fees](marketplace/transactions-fees.md)
@@ -23,7 +23,7 @@
   * [🏞️NFT](hominids/nft.md)
     * [🔹Gen 1 : 1017 NFT](hominids/nft/gen-1-1017-nft.md)
     * [🔹Gen 2 : 333 NFT](hominids/nft/gen-2-333-nft.md)
-* [Utility](utilities/README.md)
+* [📢 Utility](utilities/README.md)
   * [🔹Staking](utilities/staking.md)
   * [🔹Rarity Earning](utilities/rarity-earning.md)
   * [🔹TraitStore](utilities/traitstore.md)
