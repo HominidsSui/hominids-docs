@@ -11,35 +11,44 @@ description: 🌐 Introducing Hominids' Tokenomics 🌐
 ```cpp
               $HOMI Token Distribution
 
-   -------------------------------------------------
+   ------------------------------------------------
   |                                               |
   |              HOMI Token Supply                |
-  |              -----------------                |
-  |                                               |
-  |            - Initial Dex Offering (40%)       |
-  |            - Community Rewards (30%)          |
-  |            - Development & Partnerships (20%) |
-  |            - Team & Advisors (5%)             |
+               -----------------                
+                                                 
+  IDO (Initial DEX Offering) - 20 million tokens (20%):
+- TGE (Token Generation Event): 25% unlocked immediately after sale.
+- Initial blocking: The remaining 75% are blocked for 3 months after the TGE.
+- Linear vesting: The remaining 75% are vested linearly over a period of 9 months after initial release.
+
+   Staking - 20 million tokens (20%):
+- TGE: 100% of tokens are released immediately.
+- No blocking or linear acquisition.
+
+   Development team - 15 million tokens (15%):
+- TGE: 10% of tokens unlocked immediately.
+- Initial blocking: The remaining 90% are blocked for 12 months after the TGE.
+- Linear acquisition: The remaining 90% are acquired linearly over a period of 24 months after initial release.
+
+  Community - 20 million tokens (20%):
+- TGE: 10% of tokens are unlocked immediately.
+- Initial blocking: The remaining 90% are blocked for 6 months after TGE.
+- Linear acquisition: The remaining 90% are acquired linearly over an 18-month period after initial release.
+
+  Marketing - 5 million tokens (5%):
+- TGE: 100% of tokens are released immediately.
+- No blocking or linear acquisition.
+
+  Ecosystem - 20 million tokens (20%):
+- TGE: 25% of tokens are unlocked immediately.
+- Initial blocking: The remaining 75% are blocked for 6 months after TGE.
+- Linear acquisition: The remaining 75% are acquired linearly over a period of 18 months after initial release.            |
   |                                               |
    -------------------------------------------------
 
 ```
 
 
-
-🔹 **Initial distribution:** The initial distribution of HOMI tokens is designed to be balanced and fair to encourage adoption and active participation from the community. We have reserved a **40% share of the tokens for IDO (Initial Dex Offering) to allow our early supporters to benefit from an early investment opportunity**.
-
-
-
-🔹 **Community Rewards:** We strongly believe in rewarding HOMI token holders for their continued commitment and support. Thus, we have allocated a **30% share of tokens for rewards, incentives and staking programs**. This allows users to actively participate in the ecosystem and earn rewards based on their participation.
-
-
-
-🔹 **Development and partnerships:** We understand the importance of continuous innovation and expansion of our ecosystem. To support this, we have set aside **20% of tokens for new feature development, strategic partnerships and continuous improvement of our platform**. This allows us to stay ahead of the industry and meet the changing needs of our users.
-
-
-
-🔹 **Team and Consultants:** A strong team is key to a successful project. We have allocated 5% of the tokens to reward and retain our talented team, who work tirelessly to make Hominids a reality. In addition, we have set aside a **5% share for strategic advisors who bring expertise and experience to support our growth**.
 
 
 
