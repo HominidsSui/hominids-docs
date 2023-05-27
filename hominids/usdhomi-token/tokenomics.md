@@ -4,7 +4,7 @@ description: 🌐 Introducing Hominids' Tokenomics 🌐
 
 # 🔹Tokenomics
 
-<figure><img src="../../.gitbook/assets/photo_2023-05-27_05-02-05.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/photo_2023-05-27_05-17-15.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -12,7 +12,7 @@ description: 🌐 Introducing Hominids' Tokenomics 🌐
 
 
 
-<figure><img src="../../.gitbook/assets/photo_2023-05-27_04-59-50.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/123.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
