@@ -4,6 +4,10 @@ description: 🌐 Introducing Hominids' Tokenomics 🌐
 
 # 🔹Tokenomics
 
+<figure><img src="../../.gitbook/assets/photo_2023-05-27_05-02-05.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 💎 **HOMI Token:** The vibrant heart of the Hominids project is the HOMI token. **With a total supply  of 100 million tokens (**~~**22 millions tokens**~~**) ,** HOMI is designed to be a strong and dynamic pillar of the ecosystem. It represents a valuable part in the growing Hominids community.
 
 
