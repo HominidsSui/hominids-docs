@@ -21,6 +21,7 @@
     * [🔹Tokenomics](hominids/usdhomi-token/tokenomics.md)
     * [🔹Audit](hominids/usdhomi-token/audit.md)
     * [🔹Smart Contract](https://suiexplorer.com/object/0xfcf9f351cb0ae2730d32c3862eaa03d3918768fd26094723e4d1e1889dab5239)
+    * [🔹KYC And Team](hominids/usdhomi-token/kyc-and-team.md)
   * [🏞️NFT](hominids/nft.md)
     * [🔹Gen 1 : 1017 NFT](hominids/nft/gen-1-1017-nft.md)
     * [🔹Gen 2 : 333 NFT](hominids/nft/gen-2-333-nft.md)
