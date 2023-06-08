@@ -15,6 +15,7 @@
   * [📱Homiverse](hominids/homiverse.md)
     * [🔹Android Prototype 0.0.1](hominids/homiverse/android-prototype-0.0.1/README.md)
       * [🔹Download](https://mega.nz/file/ToUEEAhY#4KFWj363DDj2vmcpq7Fx6QBOaDA4rhMqfVxWBaVhu1w)
+    * [🔹About HomiVerse](hominids/homiverse/about-homiverse.md)
   * [👕"H0xMi3" Brands](hominids/h0xmi3-brands.md)
     * [🔹Collection 1](hominids/h0xmi3-brands/collection-1.md)
   * [📈$HOMI Token](hominids/usdhomi-token/README.md)
