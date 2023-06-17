@@ -4,8 +4,6 @@ description: Presentation
 
 # 📢 Hominids
 
-<figure><img src=".gitbook/assets/1500x500.jpg" alt=""><figcaption></figcaption></figure>
-
 <mark style="color:blue;">**Hominids**</mark> brings significant value to the Web3 community by providing collaboration opportunities, tools and resources, driving on <mark style="color:blue;">**blockchain**</mark> adoption, encouraging experimentation and innovation, and providing technical support and expertise.&#x20;
 
 We strongly believe that the success and growth of the Web3 community relies on collaboration and mutual support, and we are committed to actively contributing to this vibrant ecosystem. Hominids benefits the Web3 community as a whole by providing new opportunities and driving adoption of blockchain technology. More specifically, other developers can benefit in several ways:
