@@ -26,6 +26,7 @@
   * [🏞️NFT](hominids/nft.md)
     * [🔹Gen 1 : 1017 NFT](hominids/nft/gen-1-1017-nft.md)
     * [🔹Gen 2 : 333 NFT](hominids/nft/gen-2-333-nft.md)
+    * [🔹PROPLIFIC](hominids/nft/proplific.md)
 * [📢 Utility](utilities/README.md)
   * [🔹Staking](utilities/staking.md)
   * [🔹Rarity Earning](utilities/rarity-earning.md)
