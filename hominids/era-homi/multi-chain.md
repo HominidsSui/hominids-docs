@@ -14,7 +14,7 @@ Era-Homi is a cutting-edge decentralized marketplace designed to empower users w
 
 🔗 **Embracing Multi-Chain Technology** 🔗&#x20;
 
-We believe in the power of interoperability and inclusivity. Era-Homi is built on a multi-chain infrastructure, enabling users **to transact and engage with various blockchain networks**, **including  SUI, BRC-20 and more**. This approach ensures flexibility, scalability, and enhanced opportunities for our community, irrespective of their preferred blockchain ecosystem. 🌐🔁
+We believe in the power of interoperability and inclusivity. Era-Homi is built on a multi-chain infrastructure, enabling users **to transact and engage with various blockchain networks**, **including  SUI, Bitcoin, ZetaChain, Venom Network and more**. This approach ensures flexibility, scalability, and enhanced opportunities for our community, irrespective of their preferred blockchain ecosystem. 🌐🔁
 
 
 
