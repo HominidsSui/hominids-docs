@@ -8,8 +8,6 @@ Welcome to **Era-Homi, the Dapp-Marketplace of the Hominids project**, where you
 
 
 
-<figure><img src="../.gitbook/assets/111.jpg" alt="" width="375"><figcaption><p>era-homi.xyz</p></figcaption></figure>
-
 ✨ **Explore a unique collection of hominid NFTs** ✨
 
 Dive into our collection of hominid NFTs, unique artistic creations that bring to life anthropomorphic characters with distinct physical traits, captivating personalities, and special characteristics. Each NFT is a rare and valuable piece of digital art, offering an immersive visual experience and increasing intrinsic value over time. 🎨💎
@@ -30,10 +28,10 @@ In addition to the Dapp-Marketplace, we offer you the opportunity to dive into t
 
 💼 **Participate in engaging and lucrative activities** 💼
 
-Era-Homi is not just about buying and selling NFT. You can also participate in engaging and lucrative activities such as betting games to earn HOMI token rewards, wager your NFTs to earn additional token rewards, and even offer NFTs for rent to generate passive income. Immerse yourself in our vibrant ecosystem and take advantage of all the opportunities Era-Homi has to offer. 🎮💰
+Era-Homi is not just about buying and selling NFT. You can also participate in engaging and lucrative activities such as betting games to earn **$**_**HOMI token** and **$eHOMI token** rewards_, wager your NFTs to earn additional token rewards, and even offer NFTs for rent to generate passive income. Immerse yourself in our vibrant ecosystem and take advantage of all the opportunities Era-Homi has to offer. 🎮💰
 
 
 
 🛡️ **Safety, transparency and environmental sustainability** 🌱🔒
 
-At Hominids, we place a high value on security and transparency. Our Dapp-Marketplace is built on the SUI blockchain, offering enhanced security through its advanced smart contract features. In addition, we are committed to environmental sustainability by offsetting our carbon emissions, promoting green hosting, and raising environmental awareness within our metaverse. Your participation in Era-Homi contributes to a greener, more sustainable future. ♻️🌍
+At Hominids, we place a high value on security and transparency. Our Dapp-Marketplace is built multi-chain, offering enhanced security through its advanced smart contract features. In addition, we are committed to environmental sustainability by offsetting our carbon emissions, promoting green hosting, and raising environmental awareness within our metaverse. Your participation in Era-Homi contributes to a greener, more sustainable future. ♻️🌍

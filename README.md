@@ -4,41 +4,36 @@ description: Presentation
 
 # 📢 Hominids
 
-<mark style="color:blue;">**Hominids**</mark> brings significant value to the Web3 community by providing collaboration opportunities, tools and resources, driving on <mark style="color:blue;">**blockchain**</mark> adoption, encouraging experimentation and innovation, and providing technical support and expertise.&#x20;
+<figure><img src=".gitbook/assets/epoFwRyU_400x400.jpg" alt=""><figcaption></figcaption></figure>
 
-We strongly believe that the success and growth of the Web3 community relies on collaboration and mutual support, and we are committed to actively contributing to this vibrant ecosystem. Hominids benefits the Web3 community as a whole by providing new opportunities and driving adoption of blockchain technology. More specifically, other developers can benefit in several ways:
+**HOMINIDS** is a revolutionary project in the field of blockchain and decentralized finance. Our vision is to create an innovative and accessible mobile metaverse ecosystem, offering an immersive experience and economic opportunities for users.
 
+\
+Our **mission** is to create an _innovative mobile universe_ that combines blockchain technology, NFT features and immersive experiences to provide a social and fun platform for our users. We aim to revolutionize the way users interact with metavers by offering a unique mobile experience.
 
-
-&#x20;  🔹 <mark style="background-color:blue;">**Collaboration and partnerships**</mark>: _Hominids encourages collaboration with other developers in the Web3 community. We offer partnership opportunities to create joint decentralized applications, explore new features and develop innovative projects together._
-
-&#x20;   🔹 <mark style="background-color:blue;">**Access to tools and resources**</mark>: _Our team is well-versed in the **MORE programming language used in the  blockchain**, which means we can provide guidance, code examples, and resources to help other developers create and deploy smart contracts and applications on the blockchain._
-
-&#x20;  🔹 <mark style="background-color:blue;">**Boosting blockchain adoption**</mark>: _By providing immersive experiences, compelling features, and a range of products and services, Hominids is helping to bring attention to blockchain and encourage adoption by a wider audience. This creates a positive dynamic for other developers who want to work on blockchain, as it provides them with a strong user base and opportunity._
-
-&#x20;  🔹 <mark style="background-color:blue;">**Experimentation and innovation**</mark>: _Hominids is open to experimentation and innovation in NFT, games, and decentralized applications. By working with us, other developers can explore new ideas, test concepts and push the boundaries of what is possible on the blockchain. This fosters creativity and technological advancement within the Web3 community._
-
-&#x20;  🔹 <mark style="background-color:blue;">**Technical support and expertise**</mark>: _Our team is available to provide technical support and expertise to other developers. Whether it's solving problems, answering questions, or offering advice, we are here to help other developers overcome obstacles and succeed in their projects._
+\
+Our **vision** is to become the _leading mobile metaverse_, offering a comprehensive and immersive platform where users can explore, create, interact and trade using unique digital assets. We aim to create a dynamic virtual environment where creativity, innovation and community thrive.HOMINIDS tackles several problems present in the field of blockchain and decentralized finance:
 
 
 
-<mark style="color:blue;">**HOMINIDS**</mark> is a groundbreaking project that combines the power of **NFTs**, blockchain and metaverse to create an unparalleled immersive experience. Our goal is to push the boundaries of creativity, social interaction and technological innovation.
+* **Limited accessibility:** existing metavers and NFT platforms are often focused on desktop users, leaving mobile users excluded. HOMINIDS solves this problem by offering a metavers experience optimized for mobile devices, enabling a wider range of users to participate in the blockchain ecosystem.
 
 
 
-We have created a multi-token marketplace with **0% transaction fees**, allowing users to buy, sell and discover a multitude of unique and valuable NFTs. With our Dapp-Marketplace <mark style="color:purple;">era-homi.xyz</mark>, you can access a wide range of hominid NFTs, each representing a unique anthropomorphic character with its own **unique traits, personality and characteristics.**
+* **Enhanced user experience:** HOMINIDS focuses on the user experience by offering a user-friendly interface, intuitive features and advanced social interactions. We aim to make the use of blockchain and NFTs easier and more enjoyable for users, driving adoption and engagement.
 
 
 
-But HOMINIDS doesn't stop there! We are also developing our own **mobile metaverse using Unreal Engine 5.1.** This metaverse will be connected to our **Dapp-Marketplace**, offering a seamless and immersive experience. You will be able to explore virtual worlds, interact with other users and participate in exciting social and entertainment activities.\
+* **NFT integration:** NFTs have grown in popularity, but it can be difficult for users to find, buy and exchange NFTs seamlessly. HOMINIDS facilitates this integration by offering an integrated NFT marketplace in the metaverse, enabling users to explore, collect and trade unique digital assets with ease.
 
 
-In addition to this, we have **many exciting projects in development**. We are working on the TraitStore, where NFT owners will be able to trade, buy and sell specific traits to customize their NFTs. We also plan to launch a second exclusive collection with advanced features such as wagering and cashback, allowing NFT owners to earn rewards in $HOMI tokens and cashback on transactions made on our platform.\
 
-
-The security and satisfaction of our community is paramount to us. We are committed to **KYC (Know Your Customer) checks to ensure transparency and security for NFT holders**. In addition, we plan to list our **$HOMI token** on a **CEX and DEX**, which will allow us to reach a wider audience and facilitate trading.
+* **Immersive social interaction:** Metavers offer immense potential for social interaction and collaboration, but many existing projects lack advanced social features. HOMINIDS solves this problem by offering integrated social features, enabling users to connect, collaborate and participate in interactive activities within the virtual universe.
 
 \
 
 
+By solving these problems, HOMINIDS aims to democratize access to blockchain and NFT, enhance the user experience and create a dynamic and engaging virtual environment for users worldwide.
+
+\
 \
