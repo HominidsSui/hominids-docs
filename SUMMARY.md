@@ -16,7 +16,8 @@
     * [🔹PROPLIFIC](hominids/nft/proplific.md)
   * [💰eHOMI : Tokenomics](hominids/ehomi-tokenomics.md)
   * [🌱Roadmap](hominids/roadmap/README.md)
-    * [🪅 HomiVerse Metaverse Mobile Development Roadmap](hominids/roadmap/homiverse-metaverse-mobile-development-roadmap.md)
+    * [🧮 HomiVerse Metaverse Mobile Development Roadmap](hominids/roadmap/homiverse-metaverse-mobile-development-roadmap.md)
+    * [🧮 Era-Homi Marketplace Development Roadmap](hominids/roadmap/era-homi-marketplace-development-roadmap.md)
 
 ## Contact & Links
 
