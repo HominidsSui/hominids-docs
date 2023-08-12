@@ -15,7 +15,8 @@
     * [🔹Gen 2 : 333 NFT](hominids/nft/gen-2-333-nft.md)
     * [🔹PROPLIFIC](hominids/nft/proplific.md)
   * [💰eHOMI : Tokenomics](hominids/ehomi-tokenomics.md)
-  * [🌱Roadmap](hominids/roadmap.md)
+  * [🌱Roadmap](hominids/roadmap/README.md)
+    * [🪅 HomiVerse Metaverse Mobile Development Roadmap](hominids/roadmap/homiverse-metaverse-mobile-development-roadmap.md)
 
 ## Contact & Links
 
