@@ -15,7 +15,12 @@
     * [🔹Gen 2 : 333 NFT](hominids/nft/gen-2-333-nft.md)
     * [🔹PROPLIFIC](hominids/nft/proplific.md)
   * [💰eHOMI : Tokenomics](hominids/ehomi-tokenomics.md)
+  * [🌱Roadmap](hominids/roadmap.md)
 
 ## Contact & Links
 
 * [🔹All Links](https://link3.to/hominids)
+
+***
+
+* [🔹Whitepaper](https://github.com/HominidsSui/whitepaper/blob/main/HOMINIDS%20WHITEPAPER.pdf)
