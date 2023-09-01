@@ -18,11 +18,8 @@
   * [🌱Roadmap](hominids/roadmap/README.md)
     * [🧮 HomiVerse Metaverse Mobile Development Roadmap](hominids/roadmap/homiverse-metaverse-mobile-development-roadmap.md)
     * [🧮 Era-Homi Marketplace Development Roadmap](hominids/roadmap/era-homi-marketplace-development-roadmap.md)
+  * [🏁 Learn more](hominids/learn-more.md)
 
 ## Contact & Links
 
 * [🔹All Links](https://link3.to/hominids)
-
-***
-
-* [🔹Whitepaper](https://github.com/HominidsSui/whitepaper/blob/main/HOMINIDS%20WHITEPAPER.pdf)
