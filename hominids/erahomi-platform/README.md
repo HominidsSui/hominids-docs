@@ -2,7 +2,7 @@
 description: '🦍Era-Homi Dapp-Marketplace: A gateway to the world of HOMINIDS 🎨📦'
 ---
 
-# 🌐Era-Homi
+# 🌐ERAHOMI PLATFORM
 
 Welcome to **Era-Homi, The Multi-Chain Marketplace of the Hominids project**, where you will discover a world rich in creativity, exchanges and opportunities. 🚀🌈
 
@@ -28,7 +28,7 @@ In addition to the Multi-Chain Marketplace, we offer you the opportunity to dive
 
 💼 **Participate in engaging and lucrative activities** 💼
 
-Era-Homi is not just about buying and selling NFT. You can also participate in engaging and lucrative activities such as betting games to earn **$**_**HOMI token** and **$eHOMI token** rewards_, wager your NFTs to earn additional token rewards, and even offer NFTs for rent to generate passive income. Immerse yourself in our vibrant ecosystem and take advantage of all the opportunities Era-Homi has to offer. 🎮💰
+Era-Homi is not just about buying and selling NFT. You can also participate in engaging and lucrative activities such as betting games to earn **$**_**HOMI token** rewards_, wager your NFTs to earn additional token rewards, and even offer NFTs for rent to generate passive income. Immerse yourself in our vibrant ecosystem and take advantage of all the opportunities Era-Homi has to offer. 🎮💰
 
 
 

@@ -1,13 +1,13 @@
 # Table of contents
 
-* [📢 Hominids](README.md)
-  * [🌐Era-Homi](hominids/era-homi.md)
-    * [🔹Launchpad](marketplace/launchpad.md)
-    * [🔹Transactions fees](marketplace/transactions-fees.md)
-    * [🔹Multi-Chain](hominids/era-homi/multi-chain.md)
-  * [📱HOMIVERSE METAVERSE](hominids/homiverse-metaverse/README.md)
-    * [🔹Android Prototype 0.0.1](hominids/homiverse-metaverse/android-prototype-0.0.1.md)
-    * [🔹About HomiVerse](hominids/homiverse-metaverse/about-homiverse.md)
+* [📢 HOMINIDS](README.md)
+  * [🌐ERAHOMI PLATFORM](hominids/erahomi-platform/README.md)
+    * [🔹Launchpad](hominids/erahomi-platform/launchpad.md)
+    * [🔹Transactions fees](hominids/erahomi-platform/transactions-fees.md)
+    * [🔹Multi-Chain](hominids/erahomi-platform/multi-chain.md)
+  * [📱HOMIVERSE METAVERSE](hominids/homiverse.md)
+    * [🔹Android Prototype 0.0.1](hominids/homiverse/android-prototype-0.0.1.md)
+    * [🔹About HomiVerse](hominids/homiverse/about-homiverse.md)
   * [👕"H0MINIDS" Brands](hominids/h0minids-brands/README.md)
     * [🔹Collection 1](hominids/h0minids-brands/collection-1.md)
   * [🏞️NFT](hominids/nft.md)
@@ -19,7 +19,8 @@
     * [🧮 Era-Homi Marketplace Development Roadmap](hominids/roadmap/era-homi-marketplace-development-roadmap.md)
   * [🪙 HOMITOKEN](hominids/tokenomics/README.md)
     * [💰HOMI : Tokenomics](hominids/tokenomics/ehomi-tokenomics.md)
-  * [🏁 WHITEPAPER](hominids/whitepaper.md)
+    * [🔏 Audit](hominids/homitoken/audit.md)
+  * [🏁 WHITEPAPER](hominids/learn-more.md)
 
 ## Contact & Links
 

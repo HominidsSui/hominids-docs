@@ -2,7 +2,7 @@
 description: 🌍Explore, create and live an immersive experience in our mobile metaverse!
 ---
 
-# 📱Homiverse
+# 📱HOMIVERSE METAVERSE
 
 🏞️ **Discover a captivating virtual world** 🌠
 
