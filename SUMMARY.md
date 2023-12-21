@@ -18,7 +18,7 @@
     * [🧮 HomiVerse Metaverse Mobile Development Roadmap](hominids/roadmap/homiverse-metaverse-mobile-development-roadmap.md)
     * [🧮 Era-Homi Marketplace Development Roadmap](hominids/roadmap/era-homi-marketplace-development-roadmap.md)
   * [🪙 TOKENOMICS](hominids/tokenomics/README.md)
-    * [💰eHOMI : Tokenomics](hominids/tokenomics/ehomi-tokenomics.md)
+    * [💰HOMI : Tokenomics](hominids/tokenomics/homi-tokenomics.md)
   * [🏁 Learn more](hominids/learn-more.md)
 
 ## Contact & Links
