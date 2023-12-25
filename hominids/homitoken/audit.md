@@ -5,3 +5,5 @@
 **Audit :** [HOMI Token audited by 0xGuard.com](https://github.com/0xGuard-com/audit-reports/blob/master/HOMI/HOMI.pdf)
 
 {% file src="../../.gitbook/assets/HOMI.pdf" %}
+
+<figure><img src="../../.gitbook/assets/download (1).jpeg" alt=""><figcaption></figcaption></figure>
