@@ -1,6 +1,8 @@
 # 💰Tokenomics
 
-**Token Allocation Breakdown**\
+**Token Allocation Breakdown**
+
+\
 \
 \- **Advisory -** \
 &#x20;   `-`` `**`Amount:`**` ``16,650,000 HOMI`\
@@ -73,3 +75,10 @@
 &#x20;   `-`` `**`Vesting Period:`**` ``0 months`\
 &#x20;   `-`` `**`TGE % of Total Supply:`**` ``0.5%`\
 &#x20;   `-`` `**`Controlled by Team/mm after TGE:`**` ``Yes`\
+
+
+<figure><img src="../../.gitbook/assets/pur.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/pur.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/pur.png" alt=""><figcaption></figcaption></figure>
