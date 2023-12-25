@@ -39,8 +39,8 @@
 &#x20;   `-`` `**`Controlled by Team/mm after TGE:`**` ``Yes`\
 \
 \- **Ecosystem -** \
-&#x20;   `-`` `**`Amount:`**` ``66,600,000 HOMI`\
-&#x20;   `-`` `**`% of Total Supply:`**` ``20%`\
+&#x20;   `-`` `**`Amount:`**` ``114,235,000 HOMI`\
+&#x20;   `-`` `**`% of Total Supply:`**` ``34.4%`\
 &#x20;   `-`` `**`Unlock at TGE:`**` ``5%`\
 &#x20;   `-`` `**`Cliff Period:`**` ``3 months`\
 &#x20;   `-`` `**`Vesting Period:`**` ``6 months`\
