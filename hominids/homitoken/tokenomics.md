@@ -77,8 +77,4 @@
 &#x20;   `-`` `**`Controlled by Team/mm after TGE:`**` ``Yes`\
 
 
-<figure><img src="../../.gitbook/assets/pur.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/pur.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/pur.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rs (1).jpg" alt=""><figcaption></figcaption></figure>
